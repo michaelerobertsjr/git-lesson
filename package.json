@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelerobertsjr/git-lesson/issues"
   },
-  "homepage": "https://github.com/michaelerobertsjr/git-lesson#readme"
+  "homepage": "https://github.com/michaelerobertsjr/git-lesson#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
