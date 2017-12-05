@@ -3,6 +3,6 @@
 ## starting project
 
 ```
-npm install
+npm install // this is awesome
 ```
 
